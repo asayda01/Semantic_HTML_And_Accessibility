@@ -1,4 +1,4 @@
-# newspaper_page
+# Semantic Html
 
 
 A newspaper page of Techreturners website wherein you can read articles, contact the authors, book events and more ! 
