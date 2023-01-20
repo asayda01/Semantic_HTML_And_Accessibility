@@ -25,7 +25,7 @@ The specifications are deliberately vague - it’s your job to identify which HT
 
 ❗️Note: You don’t need to make the whole page function! It’s okay if the nav bars don’t work, and you don’t have to setup a HTTP server to serve the HTML or handle navigations or anything like that.
 
- ❗️Note: For adding the image, taking a screenshot of the image in the user requirements file is fine - or leaving the source attribute empty. 
+❗️Note: For adding the image, taking a screenshot of the image in the user requirements file is fine - or leaving the source attribute empty. 
  
 💡 If you want to use this assignment as an excuse to setup a very simple development HTTP server and have your HTML pages navigate to each other correctly, then have fun! But it is NOT required.
 
@@ -35,6 +35,8 @@ The specifications are deliberately vague - it’s your job to identify which HT
 
 •	Semantic HTML - does your page convey meaning to a visually impaired user as well as another developer?
 
-•	Have you tested your code in any way (e.g. the W3C MarkUp Validator https://validator.w3.org/#validate_by_input and/or Google Chromes Lighthouse)? Could you navigate your page without using a mouse? 
+•	Have you tested your code in any way (e.g. the W3C MarkUp Validator https://validator.w3.org/#validate_by_input and/or Google Chromes Lighthouse)? 
+ 
+•	Could you navigate your page without using a mouse? 
 
 •	Have you used alt tags? What description have you chosen to use (if any at all) and why?
